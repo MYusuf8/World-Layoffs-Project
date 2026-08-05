@@ -1,2 +1,2 @@
 # World-Layoffs-Project
-Cleaning and exploring World Layoffs data set
+Working with World layoff raw data, layoffs that have taken place around the world from companies of varies sizes. First cleaning the data, standardising it and then getting some insights on the data.
